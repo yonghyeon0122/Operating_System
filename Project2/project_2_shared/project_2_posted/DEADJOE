@@ -1,0 +1,20 @@
+
+*** These modified files were found in JOE when it aborted on Sun Oct 23 15:02:25 2022
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+/home/yi000055/CLASS/CSCI4061/Project2/project_2_shared/project_2_posted/.git/MERGE_MSG
+
+*** File '/home/yi000055/CLASS/CSCI4061/Project2/project_2_shared/project_2_posted/.git/MERGE_MSG'
+Merge branch 'main' of https://github.umn.edu/koo00017/project_2_posted into main
+# Please enter a commit message to explain why this merge is necessary,
+# especially if it merges an updated upstream into a topic branch.
+#
+# Lines starting with '#' will be ignored, and an empty message aborts
+# the commit.
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc

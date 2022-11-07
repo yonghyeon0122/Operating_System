@@ -1,0 +1,15 @@
+To Do List
+
+Functions to document:
+	
+on_blacklist() - DONE
+bad_format() - DONE
+init_blacklist() - DONE
+uri_entered_cb() - DONE
+main() - DONE 
+
+Questions:
+
+how to effectively test the program to cover all cases 
+code wise main(): are we checking if we are forking, killing, and waiting properly 
+(office hours from 5:30-7:30 Tues)

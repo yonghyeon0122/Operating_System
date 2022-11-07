@@ -1,0 +1,11 @@
+
+~
+Push
+git add .
+git commit -m "updated_functsion"
+git push
+
+Pull
+git add .
+git stash
+git pull

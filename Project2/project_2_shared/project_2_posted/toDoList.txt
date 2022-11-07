@@ -1,0 +1,22 @@
+1. 
+
+    uri_entered_cb
+        v
+    handle_uri
+
+2.
+    new_tab_created
+
+3. 
+    main
+
+Things left to do 10_23_22:
+
+Changes and questions 10_23_22:
+1. Cannot open the second URL on the same tab -> the pipe should't closed after write
+2. Do we have to close all the pipes in the end? 
+3. Adding to the favorite list: can we add the same URL multiple time? -> currently we can add it as much as we can
+	-> Solved: we can use fav_ok() which are already implemented
+4. BAD TAB means typing URL to the non-existing tab -> check "free" flag to see whether the tab is opened
+5. menu_item_selected_cb() is done
+6. TAB_IS_DEAD: set the "free" into 1 (make the index available again)
