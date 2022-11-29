@@ -1,0 +1,16 @@
+# To Do List
+
+####################################
+Intermediate Submission
+####################################
+A single request (wget http://127.0.0.1.<PORT_NUM> other terminals) from a client can be handled by a single dispatcher thread
+Queue is not required at this point
+The request should be printed to the terminal
+e.g.) fprintf(stderr, "Dispatcher Received Request: fd{%d] request{%s]\n", <insert_fd>, <insert_str>);
+
+Functions
+
+getContentType(): Figure out the requested file type - .html? .jpg? .gif? .txt?
+readFromDisk(): malloc the memory space. Open, read the file from disk into memory
+dispatch(): Receive a single request from a client
+

@@ -1,0 +1,7 @@
+--2022-11-16 16:29:05--  http://127.0.0.1:1024/image/jpg/29.jpg
+Connecting to 127.0.0.1:1024... connected.
+HTTP request sent, awaiting response... No data received.
+Retrying.
+
+--2022-11-16 16:30:40--  (try: 2)  http://127.0.0.1:1024/image/jpg/29.jpg
+Connecting to 127.0.0.1:1024... failed: Connection refused.
